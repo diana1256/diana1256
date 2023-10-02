@@ -1,7 +1,7 @@
 ### Hi 👋, I'm  Diana 
 
 - :blush: Aspiring Android developer from Kyrgyzstan.
-- 💙 I know it well from DI:Koin,Hilt,Room,Okhhtp
+- 💙 I know it well from DI:Koin,Hilt,Room,Okhhtp, architecture MVVM,MVP
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/Diana Sagyndykova" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="diana" height="30" width="40" /></a>
