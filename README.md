@@ -1,6 +1,6 @@
 ### Hi 👋, I'm  Diana 
 
--:blush: Aspiring Android developer from Kyrgyzstan.
+- :blush: Aspiring Android developer from Kyrgyzstan.
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
