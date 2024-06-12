@@ -1,6 +1,6 @@
 ### Hi 👋, I'm  Diana 
 
-- :blush: Aspiring Android developer from Kyrgyzstan.
+- :blush: Aspiring Android developer.
 - 💙 I know it well from DI:Koin,Hilt,Room,Okhhtp, architecture MVVM,MVP
 <h3 align="left">Connect with me:</h3>
 <p align="left">
